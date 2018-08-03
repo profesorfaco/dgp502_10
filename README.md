@@ -25,7 +25,7 @@ Cada visualización será evaluada solo si cumple con lo recién indicado. La ev
 
 Como se trata de 4 visualizaciones, consideren un máximo de 6,0 (1,5 x 4). A eso le suman un punto base y ya tienen el 7.
 
-La nota que obtengan hoy se promediará con la nota que corresponda al ejercicio que hicieron la clase pasada.
+La nota que obtengan hoy se promediará con la nota que corresponda al ejercicio que hicieron la clase pasada. El resultado será su nota parcial.
 
 - - - - 
 
