@@ -23,9 +23,25 @@ Cada visualización será evaluada solo si cumple con lo recién indicado. La ev
 |:--:|:--:|:--:|:--:|
 | 0 | 0,5 | 1 | 1,5 |
 
-Como se trata de 4 visualizaciones, consideren un máximo de 6,0 (1,5 x 4). A eso le suman un punto base y ya tienen el 7.
+Como se trata de CUATRO VISUALIZACIONES, consideren un máximo de SEIS PUNTOS (1,5 x 4). A eso se le suma el punto base y ya tienen NOTA SIETE. La nota que obtengan hoy se promediará con la nota que corresponda al ejercicio que hicieron la clase pasada. Lo que resulte es nota parcial.
 
-La nota que obtengan hoy se promediará con la nota que corresponda al ejercicio que hicieron la clase pasada. El resultado será su nota parcial.
+Para asegurarnos de un mejor resultado, algunos grupos tendrán que fusionarse. En algunos casos tendrán que buscar nuevos datos, o bien, revisar qué datos corresponde considerar para fabricar una visualización útil (que de una vistazo te provoque decir: esto no lo había notado, y aquí es evidente).
+
+| Tema | Tutoría  | Más datos | 
+|:--|:--------------|:--------------|
+| Anfifauna	| Alexander Godoy	| —
+| Asteorides | Colomba Encina + Ruth Gutierrez	| —
+| Calidad de vida en Santiago | Alhelí Cisternas + Marisol Jarpa + Catalina Toloza	| https://goo.gl/cRMMqQ
+| Exploración Solar | Brian Vicuña		| —
+| Exportación Nacional	 | Ignacio Fuentes	| —
+| Femicidios en Chile	| Tiare Barra	| —
+| Las Tortugas Marinas	| Bárbara Berríos	| —
+| Los Simpson y la Música	| Camila Ibañez + Mariela Ponce	| https://goo.gl/ofZQgz
+| Mamíferos Chilenos + Fauna Chilena	| Paulina Araya + Sara Salazar	| —
+| Valparaíso	| Laura Asenjo | —
+
+
+ANTES DEL FINAL DE LA CLASE DE HOY, CADA TUTOR/A DEBE ENVIAR CORREO A profesor@faco.cl, CON ASUNTO "ejercicio final". EN EL CONTENIDO, INDICAR URL DE REPOSITORIO GITHUB Y URL DE GITHUB PAGES.
 
 - - - - 
 
