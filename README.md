@@ -6,9 +6,9 @@ Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 10 → Vierne
 
 En [la clase recién pasada](https://github.com/profesorfaco/dgp502_9/) trabajamos en grupos. En la mayoría de los trabajos sigue habiendo deudas:
 
-- Obtener datos de una variable compleja (tipo arreglo u objeto), que se escriba directamente en el sketch.
-- Tomar datos de un CSV, para que se transformen en datos dentro de una variable en el sketch.
-- Tomar datos de un JSON, para que se transformen en datos dentro de una variable en el sketch. 
+- Obtener datos de una variable compleja (tipo arreglo u objeto), que se escriba directamente en el *sketch*.
+- Tomar datos de un CSV, para que se transformen en datos dentro de una variable en el *sketch*.
+- Tomar datos de un JSON, para que se transformen en datos dentro de una variable en el *sketch*. 
 
 Para que nada quede pendiente, vamos a fusionar grupos y desarrollar páginas con 4 visualizaciones, cumpliendo con lo siguiente: 
 
