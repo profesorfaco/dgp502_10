@@ -1,4 +1,4 @@
-Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 10 → Viernes 25 de mayo
+Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 10 → Viernes 25 de mayo → Viernes 3 de agosto
 
 # Seminario Gráfica Computacional I (v.2018)
 
@@ -33,11 +33,6 @@ Ya no alcanzaremos a revisar:
 
 - [p5.bots](https://github.com/sarahgp/p5bots)
 - [Serial Communication](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/)
-
-- - - - 
-
-[Avanzar a la siguiente clase](https://github.com/profesorfaco/dgp502_10/)
-
 
 
 - - - - 
