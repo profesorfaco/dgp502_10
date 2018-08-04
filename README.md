@@ -29,16 +29,16 @@ Para asegurarnos de un mejor resultado, algunos grupos tendrán que fusionarse. 
 
 | Tema | Tutoría  | Más datos | 
 |:--|:--------------|:--------------|
-| Anfifauna	| Alexander Godoy	| —
-| Asteorides | Colomba Encina + Ruth Gutierrez	| —
-| Calidad de vida en Santiago | Alhelí Cisternas + Marisol Jarpa + Catalina Toloza	| https://goo.gl/cRMMqQ
-| Exploración Solar | Brian Vicuña		| —
-| Exportación Nacional	 | Ignacio Fuentes	| —
-| Femicidios en Chile	| Tiare Barra	| —
-| Las Tortugas Marinas	| Bárbara Berríos	| —
-| Los Simpson y la Música	| Camila Ibañez + Mariela Ponce	| https://goo.gl/ofZQgz
-| Mamíferos Chilenos + Fauna Chilena	| Paulina Araya + Sara Salazar	| —
-| Valparaíso	| Laura Asenjo | —
+| [Anfifauna](https://fawlessvictory.github.io/Evaluaci-n-03-08/)	| Alexander Godoy	| —
+| [Asteorides](https://rutikina.github.io/03-agosto/) | Colomba Encina + Ruth Gutierrez	| —
+| [Calidad de vida en Santiago](https://catalina0toloza.github.io/03-08/) | Alhelí Cisternas + Marisol Jarpa + Catalina Toloza	| https://goo.gl/cRMMqQ
+| [Exploración Solar](https://brianvic96.github.io/03-agosto/) | Brian Vicuña		| —
+| [Exportación Nacional](https://ignachu.github.io/03_08_2018/) | Ignacio Fuentes	| —
+| [Femicidios en Chile](https://tiarekth.github.io/Ejercicio-final-3-agosto/)	| Tiare Barra	| —
+| [Las Tortugas Marinas](https://elfantevolante.github.io/03-08/)	| Bárbara Berríos	| —
+| [Los Simpson y la Música](https://mponcec.github.io/Clase-03-08/)	| Camila Ibañez + Mariela Ponce	| https://goo.gl/ofZQgz
+| [Mamíferos Chilenos + Fauna Chilena](https://sarasalazarde2018.github.io/Clase_10/)	| Paulina Araya + Sara Salazar	| —
+| [Valparaíso](https://lauraasenjo.github.io/Clase10_Viernes03/)	| Laura Asenjo | —
 
 
 ANTES DEL FINAL DE LA CLASE DE HOY, CADA TUTOR/A DEBE ENVIAR CORREO A profesor@faco.cl, CON ASUNTO "ejercicio final". EN EL CONTENIDO, INDICAR URL DE REPOSITORIO GITHUB Y URL DE GITHUB PAGES.
